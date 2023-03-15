@@ -15,6 +15,8 @@ import statements in the Jupyter-notebooks to make sure all files are included.
 ### Dataset and Models
 All precomputed datasets and models are available here [Google Drive](https://drive.google.com/drive/folders/1EYg1eequk02SnkhTmBAk6_yFO158f9d6?usp=sharing)
 
+All code is available in Jupyter-notebook and should be very straightforward to run. Datasets do not take long to generate and the model may take about a half hour to 45 minutes. 
+
 ## Cite this work TODO
 ```
 
