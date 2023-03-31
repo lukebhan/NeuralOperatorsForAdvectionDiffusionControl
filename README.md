@@ -1,7 +1,7 @@
 # Neural Operators for Advection Diffusion PDE Control
 
 The source code for the paper titled Neural Operators of Backstepping Controller and Observer
-Gain Functions for Reaction-Diffusion PDEs TODO: Add citation.
+Gain Functions for Reaction-Diffusion PDEs: [arxiv](http://128.84.21.203/abs/2303.10506)
 
 ## Sysetm Requirements
 All of the code is written in Python 3 and relies on standard packages such as numpy, Pytorch, Scipy, and the 
@@ -19,7 +19,14 @@ All code is available in Jupyter-notebook and should be very straightforward to 
 
 ## Cite this work TODO
 ```
-
+@misc{krstic2023neural,
+    title={Neural Operators of Backstepping Controller and Observer Gain Functions for Reaction-Diffusion PDEs},
+    author={Miroslav Krstic and Luke Bhan and Yuanyuan Shi},
+    year={2023},
+    eprint={2303.10506},
+    archivePrefix={arXiv},
+    primaryClass={eess.SY}
+}
 ```
 
 ## Questions
